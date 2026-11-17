@@ -1,0 +1,93 @@
+proclens v1.0.0 — 进程生命周期透镜
+进程表: 748 进程已扫描 | 发现 30 条 (CRIT 0 / WARN 1 / INFO 29)
+[WARN] ZOMBIE       <defunct>        pid 67099 etime 00:05
+       子进程已死父进程未收尸（父 pid 67097）
+[INFO] ORPHAN       bird             pid 64927 etime 04:42
+       父进程已退场，进程 282s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+[INFO] ORPHAN       ContainerMetadataExtractor pid 64928 etime 04:41
+       父进程已退场，进程 281s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+[INFO] ORPHAN       mdworker_shared  pid 66108 etime 02:21
+       父进程已退场，进程 141s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -
+[INFO] ORPHAN       localizationswitcherd pid 66161 etime 02:13
+       父进程已退场，进程 133s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+[INFO] ORPHAN       BTLEServerAgent  pid 66176 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /usr/sbin/BTLEServerAgent
+[INFO] ORPHAN       bluetoothuserd   pid 66177 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /usr/libexec/bluetoothuserd
+[INFO] ORPHAN       betaenrollmentagent pid 66178 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /usr/libexec/betaenrollmentagent
+[INFO] ORPHAN       BTLEServer       pid 66179 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /usr/sbin/BTLEServer
+[INFO] ORPHAN       accessoryd       pid 66180 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+[INFO] ORPHAN       betaenrollmentd  pid 66181 etime 02:08
+       父进程已退场，进程 128s 前被托管给 pid 1
+       cmd: /usr/libexec/betaenrollmentd
+[INFO] ORPHAN       uarpd            pid 66182 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /usr/libexec/uarpd
+[INFO] ORPHAN       com.apple.accessibility.mediaaccessibilityd pid 66183 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessib
+[INFO] ORPHAN       uarpassetmanagerd pid 66184 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /usr/libexec/uarpassetmanagerd
+[INFO] ORPHAN       UARPAssetManagerServiceMobileAsset pid 66185 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/UARPAssetManager.framework/XPCServices/UARPAssetManagerServiceMobileAsset.xpc/Contents/MacOS/UARPAssetManagerServiceMobileAsse
+[INFO] ORPHAN       CoreSpeechXPC    pid 66187 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/XPCServices/CoreSpeechXPC.xpc/Contents/MacOS/CoreSpeechXPC
+[INFO] ORPHAN       duetexpertd      pid 66188 etime 02:07
+       父进程已退场，进程 127s 前被托管给 pid 1
+       cmd: /usr/libexec/duetexpertd
+[INFO] ORPHAN       replicatord      pid 66189 etime 02:06
+       父进程已退场，进程 126s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+[INFO] ORPHAN       com.apple.audio.SandboxHelper pid 66215 etime 02:05
+       父进程已退场，进程 125s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+[INFO] ORPHAN       siriactionsd     pid 66229 etime 02:00
+       父进程已退场，进程 120s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+[INFO] ORPHAN       ShortcutsViewService pid 66230 etime 02:00
+       父进程已退场，进程 120s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/WorkflowKit.framework/XPCServices/ShortcutsViewService.xpc/Contents/MacOS/ShortcutsViewService
+[INFO] ORPHAN       liveactivitiesd  pid 66231 etime 02:00
+       父进程已退场，进程 120s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/SessionCore.framework/Support/liveactivitiesd
+[INFO] ORPHAN       SetStoreUpdateService pid 66243 etime 01:59
+       父进程已退场，进程 119s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+[INFO] ORPHAN       AppPredictionIntentsHelperService pid 66244 etime 01:59
+       父进程已退场，进程 119s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionInt
+[INFO] ORPHAN       mobiletimerd     pid 66246 etime 01:58
+       父进程已退场，进程 118s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+[INFO] ORPHAN       SetStoreUpdateService pid 66296 etime 01:48
+       父进程已退场，进程 108s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+[INFO] ORPHAN       recentsd         pid 66345 etime 01:43
+       父进程已退场，进程 103s 前被托管给 pid 1
+       cmd: /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+[INFO] ORPHAN       mdworker_shared  pid 66553 etime 01:22
+       父进程已退场，进程 82s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -
+[INFO] ORPHAN       mdworker_shared  pid 66555 etime 01:22
+       父进程已退场，进程 82s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -
+[INFO] ORPHAN       mdworker_shared  pid 66973 etime 00:19
+       父进程已退场，进程 19s 前被托管给 pid 1
+       cmd: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -
+exit=2
+scan_exit=2

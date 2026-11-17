@@ -1,0 +1,8 @@
+round 1/6: 466 个进程名在场
+round 2/6: 465 个进程名在场
+round 3/6: 465 个进程名在场
+round 4/6: 466 个进程名在场
+[CRIT] CHURN_PID    looper.jar       name looper.jar etime -
+       6 轮内同名进程换血 21 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    BaiduNetdisk     name BaiduNetdisk etime -
+watch_exit=3

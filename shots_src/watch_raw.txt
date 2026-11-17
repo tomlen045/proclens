@@ -1,0 +1,69 @@
+round 1/6: 466 个进程名在场
+round 2/6: 465 个进程名在场
+round 3/6: 465 个进程名在场
+round 4/6: 466 个进程名在场
+round 5/6: 466 个进程名在场
+round 6/6: 465 个进程名在场
+proclens v1.0.0 — 进程生命周期透镜
+进程表: 2793 进程已扫描 | 发现 30 条 (CRIT 13 / WARN 17 / INFO 0)
+watch: 6 轮采样, 重生阈值 2
+[CRIT] CHURN_PID    node             name node etime -
+       6 轮内同名进程换血 23 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    QuarkCloudDrive  name QuarkCloudDrive etime -
+       6 轮内同名进程换血 12 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    node_repl        name node_repl etime -
+       6 轮内同名进程换血 12 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    codex            name codex etime -
+       6 轮内同名进程换血 8 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    looper.jar       name looper.jar etime -
+       6 轮内同名进程换血 21 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    BaiduNetdisk     name BaiduNetdisk etime -
+       6 轮内同名进程换血 9 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    Application      name Application etime -
+       6 轮内同名进程换血 11 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    com.apple.SafariPlatformSupport.Helper name com.apple.SafariPlatformSupport.Helper etime -
+       6 轮内同名进程换血 12 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    抖音               name 抖音 etime -
+       6 轮内同名进程换血 8 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    SetStoreUpdateService name SetStoreUpdateService etime -
+       6 轮内同名进程换血 10 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    Codex            name Codex etime -
+       6 轮内同名进程换血 21 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    distnoted        name distnoted etime -
+       6 轮内同名进程换血 21 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[CRIT] CHURN_PID    Google           name Google etime -
+       6 轮内同名进程换血 44 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    Hermes           name Hermes etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    containermanagerd name containermanagerd etime -
+       6 轮内同名进程换血 6 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    trustd           name trustd etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    cfprefsd         name cfprefsd etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    企业微信             name 企业微信 etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    哔哩哔哩             name 哔哩哔哩 etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    Applications     name Applications etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    com.apple.WebKit.GPU name com.apple.WebKit.GPU etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    python3          name python3 etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    DeepSeek         name DeepSeek etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    promecefpluginhost name promecefpluginhost etime -
+       6 轮内同名进程换血 6 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    Parallels        name Parallels etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    com.apple.geod   name com.apple.geod etime -
+       6 轮内同名进程换血 6 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    secinitd         name secinitd etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    Sublime          name Sublime etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    Python           name Python etime -
+       6 轮内同名进程换血 4 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
+[WARN] CHURN_PID    com.apple.WebKit.Networking name com.apple.WebKit.Networking etime -
+       6 轮内同名进程换血 5 个不同 pid（名字常驻、pid 不断重生）——池化 worker 疑似反复横死
